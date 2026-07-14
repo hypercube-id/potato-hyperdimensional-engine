@@ -28,7 +28,7 @@ import socket
 import struct
 import threading
 import shutil
-from hdc_engine_alpha import UnifiedStorageEngine, HDCVectorClass, DATABASE_FILE, PAYLOAD_DIR
+from hdc_engine import UnifiedStorageEngine, HDCVectorClass, DATABASE_FILE, PAYLOAD_DIR
 
 HOST = "127.0.0.1"
 PORT = 8080
