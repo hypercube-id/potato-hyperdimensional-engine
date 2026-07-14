@@ -18,7 +18,7 @@ Under the hood, PHDE is grounded in Vector Symbolic Architectures (VSA) and Hype
 
 Instead of representing data as traditional scalar values or dense floating-point arrays, we project information into massive, 10,048-dimensional binary spaces.
 
-#The Math of the "Blessing of Dimensionality"
+# The Math of the "Blessing of Dimensionality"
 When you project data into a space with D=10,048 dimensions, something mathematically beautiful happens:
 
 Almost all random vectors are orthogonal: Any two randomly generated vectors have a similarity close to zero. They are completely independent.
@@ -27,7 +27,7 @@ The system is virtually immune to noise: Because information is distributed equa
 
 We don't need complex floating-point units. We search by executing raw bitwise XOR and hardware POPCNT (population count) operations directly on the silicon.
 
-#An Open Invitation to the Community
+# An Open Invitation to the Community
 
 PHDE is open-source because we believe local, private, and highly-efficient computing should be accessible to everyone—no subscriptions, no API keys, and no telemetry. Whether you are building offline-first systems for laboratories, edge devices in the field, or just trying to squeeze maximum performance out of a home server, we want you to take this code, break it, optimize it, and build something incredible.
 
