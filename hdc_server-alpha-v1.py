@@ -1,17 +1,26 @@
 # =====================================================================
 #  Project PHDE: Potato HyperDimensional Engine
-#  Copyright (C) 2026 The Hub Studio
-#  AGPLv3
+#  Copyright (C) 2026 The Hub Studio. All Rights Reserved.
+# =====================================================================
+#  DUAL-LICENSE NOTICE:
 #
-#  This program is free software: you can redistribute it and/or modify
-#  it under the terms of the GNU General Public License as published by
-#  the Free Software Foundation, either version 3 of the License, or
-#  any later version.
+#  This file is part of Project PHDE. This software is dual-licensed, 
+#  and you may choose to use it under the terms of either:
 #
-#  This program is distributed in the hope that it will be useful,
-#  but WITHOUT ANY WARRANTY; without even the implied warranty of
-#  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
-#  GNU General Public License for more details.
+#  TRACK A: GNU Affero General Public License version 3 (AGPLv3)
+#  as published by the Free Software Foundation. This program is 
+#  distributed in the hope that it will be useful, but WITHOUT ANY 
+#  WARRANTY; without even the implied warranty of MERCHANTABILITY or 
+#  FITNESS FOR A PARTICULAR PURPOSE. See the GNU Affero General Public 
+#  License for more details at <https://www.gnu.org/licenses/>.
+#
+#  OR
+#
+#  TRACK B: The Hub Studio Commercial Proprietary License.
+#  If you have obtained a commercial license agreement from The Hub 
+#  Studio, your use of this source code is governed exclusively by 
+#  the terms of that agreement. Commercial use or network deployment 
+#  without a valid commercial agreement is strictly prohibited.
 # =====================================================================
 import os
 import sys
